@@ -65,7 +65,7 @@ npm run dev
 - Based on established voice biomarkers
 
 ### Tremor Test
-- Real-time tremor detection using computer vision
+- Real-time tremor detection using inbuilt sensors
 - Analysis of movement patterns
 - Frequency and amplitude assessment
 
