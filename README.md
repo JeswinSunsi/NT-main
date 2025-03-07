@@ -3,7 +3,7 @@
 
 Neurotone is a web-based application designed to assist in the early detection of Parkinson's Disease through three non-invasive tests powered by machine learning algorithms.
 
-![Neurotone Banner](https://imgur.com/a/5LzOeWn)
+![Logo](https://imgur.com/ULf1Qyp.png)
 
 ## 🎯 Features
 
