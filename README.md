@@ -7,17 +7,17 @@ Neurotone is a web-based application designed to assist in the early detection o
 
 ## 🎯 Features
 
-### 1. Voice Analysis Test 🎤
+### 1. Voice Analysis
 - Records and analyzes voice patterns
 - Measures vocal parameters including frequency variations
 - ML model detects vocal biomarkers associated with Parkinson's
 
-### 2. Tremor Detection Test 🖐
-- Captures hand tremors through webcam
+### 2. Tremor Detection
+- Captures hand tremors through gyro
 - Real-time tremor analysis
 - ML-based assessment of movement patterns
 
-### 3. Scribble Test ✏️
+### 3. Scribble Test
 - Digital spiral drawing assessment
 - Measures hand-eye coordination and precision
 - ML analysis of drawing patterns
@@ -49,7 +49,8 @@ cd NT-main
 cd NT-BE
 
 # Install required packages
-pip install -r requirements.txt
+pip install -r requirements.txt (backend)
+npm install (frontend)
 
 # Run the application
 python main.py
