@@ -1,0 +1,1 @@
+{'prediction': "Parkinson's", 'user_values': {'mean_pitch': 106.2, 'mean_intensity': 56.25, 'f1': 1451.7, 'f2': 2155.81, 'f3': 3171.03}, 'thresholds': {'pitch': 116.09, 'intensity': 67.89, 'f1': 1343.93, 'f2': 1688.41, 'f3': 1495.4}, 'differences': {'pitch_diff': -9.89, 'intensity_diff': -11.64, 'f1_diff': 107.77, 'f2_diff': 467.4, 'f3_diff': 1675.63}}

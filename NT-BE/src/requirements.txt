@@ -1,0 +1,13 @@
+deap==1.4.2
+fastapi==0.115.11
+matplotlib==3.10.1
+numpy==2.2.3
+opencv_python==4.10.0.84
+pandas
+parselmouth
+Pillow==11.1.0
+reportlab==4.2.5
+scikit_learn==1.6.1
+seaborn==0.13.2
+tensorflow==2.17.0
+uvicorn==0.34.0
